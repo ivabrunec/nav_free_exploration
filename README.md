@@ -4,5 +4,6 @@
 
  These data were [published](https://www.sciencedirect.com/science/article/pii/S0010027722003493) in: Brunec, I. K., Nantais, M. M., Sutton, J. E., Epstein, R. A., & Newcombe, N. S. (2023). Exploration patterns shape cognitive map learning. Cognition, 233, 105360.
 
-Fig 1 with the idea behind the analysis:
-![alt text](https://github.com/ivabrunec/nav_free_exploration/tree/main/summary/fig1_cropped.png?raw=true)
+Fig 1 with the idea behind the analysis: <br>
+
+![alt text](https://github.com/ivabrunec/nav_free_exploration/blob/main/summary/fig1_cropped.png?raw=true)
